@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Two of my most recent Data Analysis Projects
 1: Airbnb Market Analysis
   •	Analyzed a dataset of 6000+ Austin, TX Airbnb rentals using linear regression to unveil key factors influencing nightly rental prices, while logistic regression predicted property bookings based on reviews and availability
   • Performed K-means clustering to identify diverse host groups with varied strategies and performance metrics
