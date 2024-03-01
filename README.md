@@ -15,5 +15,6 @@
   • Optimizing model performance by addressing data imbalance and providing recommendations for operational thresholds, emphasizing the trade-off between false positives and recall.
   
 4: AWS Face ReKognition and Face Recognition python package
+
   • Case 1 illustrates testing both face recognition systems on myself to understand how the packages work
   • Case 2 shows when we tested the systems to identify the individuals in the images using a collection of MSBA student headshots by giving the systems three images of MSBA students in a classroom
